@@ -1,3 +1,9 @@
+References for doi2abstract
+===========================
+
+- https://www.doi.org/factsheets/DOIProxy.html
+- https://github.com/CrossRef/rest-api-doc
+
 doi2bib
 =======
 
